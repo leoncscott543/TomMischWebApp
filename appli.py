@@ -16,11 +16,11 @@ appli = Flask(__name__)
 # defining authorization header in myheader :)
 myheader = {"Authorization": "Bearer eTnvJMtGEvFKJVrj72lNjVZzXgtyE1xD6Q-Unv2A0Amjhgfx-DEo-1oEUnipH87b"}
 
-consumer_key = '3ICZ0C7ojimzEIcikzi1TahJV'
-consumer_secret = 'Ps6IelFUnvmEUk9oqgkrQFfsaLaJG56HRWJCKfOs2n0Lh6OqfJ'
+consumer_key = 'beep'
+consumer_secret = 'bop'
    
-access_token = '317341733-Mh9eGlPW0Mrr0DRVn0oUc9I3M6jh90PYCjy6lUUa'
-access_token_secret = 'KRTf4ZH4mFzMKQlpRXUhdcbvYblWu5BCAz84j3v4sKCIo'
+access_token = 'beep'
+access_token_secret = 'beepeeepeppee'
     
     
 
