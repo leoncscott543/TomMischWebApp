@@ -14,7 +14,7 @@ import requests_oauthlib
 appli = Flask(__name__)
 
 # defining authorization header in myheader :)
-myheader = {"Authorization": "Bearer eTnvJMtGEvFKJVrj72lNjVZzXgtyE1xD6Q-Unv2A0Amjhgfx-DEo-1oEUnipH87b"}
+myheader = {"Authorization": "Bearer public stuff that aught not be public"}
 
 consumer_key = 'beep'
 consumer_secret = 'bop'
